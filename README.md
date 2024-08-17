@@ -70,3 +70,10 @@ Communication enhancement-clear and concise prompts facilitate communication bet
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt
+Software engineering
+
+Improved prompt
+Define software engineering giving to importance of software engineering.
+The improved text is more clear-specifies the needs of user from the AI.
